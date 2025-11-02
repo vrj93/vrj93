@@ -28,9 +28,9 @@ Currently focused on **Cloud-native architectures**, **microservices**, and **De
 
 ![Frontend](https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,bootstrap&perline=10)
 
-### 🗄️ Databases & Caching
+### 🗄️ Databases
 
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=10)
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10)
 
 ### 🤖 CI/CD & Automation
 
@@ -38,7 +38,7 @@ Currently focused on **Cloud-native architectures**, **microservices**, and **De
 
 ### 🧰 Tools & Utilities
 
-![Tools](https://skillicons.dev/icons?i=git,github,bitbucket,markdown,vscode,phpstorm,postman,linux,figma,npm&perline=10)
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,markdown,vscode,phpstorm,sublime,postman,linux,figma,npm&perline=10)
 
 ---
 
