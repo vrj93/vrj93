@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vivek Joshi
 
-### Software Engineer | Full-Stack Developer | Cloud Enthusiast
+### Senior Software Engineer | AI & Cloud Solutions
 
 Driven by an **AI-first mindset** and a passion for crafting scalable, performant, and elegant software solutions.  
 Currently focused on **Cloud-native architectures**, **microservices**, and **DevOps automation**.
